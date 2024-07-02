@@ -1,0 +1,433 @@
+C:\Users\Venâncio Fávero\TCC\TCC\bin\Debug\TCC.exe.config
+C:\Users\Venâncio Fávero\TCC\TCC\bin\Debug\TCC.exe
+C:\Users\Venâncio Fávero\TCC\TCC\bin\Debug\TCC.pdb
+C:\Users\Venâncio Fávero\TCC\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Venâncio Fávero\TCC\TCC\obj\Debug\TCC.frm_cad_pacientes.resources
+C:\Users\Venâncio Fávero\TCC\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Venâncio Fávero\TCC\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Venâncio Fávero\TCC\TCC\obj\Debug\TCC.exe
+C:\Users\Venâncio Fávero\TCC\TCC\obj\Debug\TCC.pdb
+C:\Users\Venâncio Fávero\TCC\TCC\obj\Debug\TCC.frm_menu.resources
+C:\Users\Venâncio Fávero\TCC\TCC\obj\Debug\TCC.frm_cad_funcionarios.resources
+C:\Users\Venâncio Fávero\TCC\TCC\obj\Debug\TCC.frm_cons_pacientes.resources
+C:\Users\Venâncio Fávero\TCC\TCC\obj\Debug\TCC.frm_cons_funcionarios.resources
+\\VENANCIO\Users\Venâncio Fávero\TCC\TCC\bin\Debug\TCC.exe.config
+\\VENANCIO\Users\Venâncio Fávero\TCC\TCC\obj\Debug\TCC.exe
+\\VENANCIO\Users\Venâncio Fávero\TCC\TCC\obj\Debug\TCC.pdb
+\\VENANCIO\Users\Venâncio Fávero\TCC\TCC\bin\Debug\TCC.exe
+\\VENANCIO\Users\Venâncio Fávero\TCC\TCC\bin\Debug\TCC.pdb
+\\VENANCIO\Users\Venâncio Fávero\TCC\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+\\VENANCIO\Users\Venâncio Fávero\TCC\TCC\obj\Debug\TCC.frm_cad_pacientes.resources
+\\VENANCIO\Users\Venâncio Fávero\TCC\TCC\obj\Debug\TCC.frm_cad_funcionarios.resources
+\\VENANCIO\Users\Venâncio Fávero\TCC\TCC\obj\Debug\TCC.frm_cons_funcionarios.resources
+\\VENANCIO\Users\Venâncio Fávero\TCC\TCC\obj\Debug\TCC.frm_cons_pacientes.resources
+\\VENANCIO\Users\Venâncio Fávero\TCC\TCC\obj\Debug\TCC.frm_menu.resources
+\\VENANCIO\Users\Venâncio Fávero\TCC\TCC\obj\Debug\TCC.Properties.Resources.resources
+\\VENANCIO\Users\Venâncio Fávero\TCC\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+L:\TCC\TCC\bin\Debug\TCC.exe.config
+L:\TCC\TCC\obj\Debug\TCC.exe
+L:\TCC\TCC\obj\Debug\TCC.pdb
+L:\TCC\TCC\bin\Debug\TCC.exe
+L:\TCC\TCC\bin\Debug\TCC.pdb
+L:\TCC\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+L:\TCC\TCC\obj\Debug\TCC.frm_cad_pacientes.resources
+L:\TCC\TCC\obj\Debug\TCC.frm_cad_funcionarios.resources
+L:\TCC\TCC\obj\Debug\TCC.frm_cons_funcionarios.resources
+L:\TCC\TCC\obj\Debug\TCC.frm_cons_pacientes.resources
+L:\TCC\TCC\obj\Debug\TCC.frm_menu.resources
+L:\TCC\TCC\obj\Debug\TCC.Properties.Resources.resources
+L:\TCC\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+K:\TCC\TCC\bin\Debug\TCC.exe.config
+K:\TCC\TCC\obj\Debug\TCC.exe
+K:\TCC\TCC\obj\Debug\TCC.pdb
+M:\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe.config
+M:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.exe
+M:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.pdb
+K:\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe.config
+K:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.exe
+K:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.pdb
+C:\Users\Venâncio Fávero\Documents\TCC TÉCNICO\TERCEIRO MÓDULO\TCC\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe.config
+C:\Users\Venâncio Fávero\Documents\TCC TÉCNICO\TERCEIRO MÓDULO\TCC\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.exe
+C:\Users\Venâncio Fávero\Documents\TCC TÉCNICO\TERCEIRO MÓDULO\TCC\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.pdb
+C:\Users\Venâncio Fávero\Documents\TCC TÉCNICO\TERCEIRO MÓDULO\TCC\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe
+C:\Users\Venâncio Fávero\Documents\TCC TÉCNICO\TERCEIRO MÓDULO\TCC\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.pdb
+C:\Users\Venâncio Fávero\Documents\TCC TÉCNICO\TERCEIRO MÓDULO\TCC\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Venâncio Fávero\Documents\TCC TÉCNICO\TERCEIRO MÓDULO\TCC\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_pacientes.resources
+C:\Users\Venâncio Fávero\Documents\TCC TÉCNICO\TERCEIRO MÓDULO\TCC\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_funcionarios.resources
+C:\Users\Venâncio Fávero\Documents\TCC TÉCNICO\TERCEIRO MÓDULO\TCC\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_psicologo.resources
+C:\Users\Venâncio Fávero\Documents\TCC TÉCNICO\TERCEIRO MÓDULO\TCC\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_funcionarios.resources
+C:\Users\Venâncio Fávero\Documents\TCC TÉCNICO\TERCEIRO MÓDULO\TCC\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_pacientes.resources
+C:\Users\Venâncio Fávero\Documents\TCC TÉCNICO\TERCEIRO MÓDULO\TCC\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_menu.resources
+C:\Users\Venâncio Fávero\Documents\TCC TÉCNICO\TERCEIRO MÓDULO\TCC\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Venâncio Fávero\Documents\TCC TÉCNICO\TERCEIRO MÓDULO\TCC\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Venâncio Fávero\Documents\TCC TÉCNICO\TERCEIRO MÓDULO\TCC\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_agendar_consulta.resources
+C:\Users\Venâncio Fávero\Documents\TCC TÉCNICO\TERCEIRO MÓDULO\TCC\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_psicologo.resources
+L:\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe.config
+L:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.exe
+L:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.pdb
+L:\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe
+L:\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.pdb
+L:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+L:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_consulta_agendar.resources
+L:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_pacientes.resources
+L:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_funcionarios.resources
+L:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_psicologo.resources
+L:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_funcionarios.resources
+L:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_pacientes.resources
+L:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_psicologo.resources
+L:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_menu.resources
+L:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Properties.Resources.resources
+L:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+L:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_consulta_lista.resources
+L:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_alterar_excluir_consulta.resources
+L:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_login.resources
+F:\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe.config
+F:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.exe
+F:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.pdb
+F:\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe
+F:\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.pdb
+F:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+F:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_consulta_agendar.resources
+F:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_pacientes.resources
+F:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_funcionarios.resources
+F:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_consulta_lista.resources
+F:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_funcionarios.resources
+F:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_pacientes.resources
+F:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_login.resources
+F:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_menu.resources
+F:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Properties.Resources.resources
+F:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+F:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Splash.resources
+G:\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe.config
+G:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.exe
+G:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.pdb
+G:\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe
+G:\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.pdb
+G:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+G:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_alterar_excluir_consulta.resources
+G:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_consulta_agendar.resources
+G:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_pacientes.resources
+G:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_funcionarios.resources
+G:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_consulta_lista.resources
+G:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_funcionarios.resources
+G:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_pacientes.resources
+G:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_login.resources
+G:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_menu.resources
+G:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Properties.Resources.resources
+G:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Splash.resources
+G:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+E:\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe.config
+E:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.exe
+E:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.pdb
+K:\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe
+K:\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.pdb
+K:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+K:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_alterar_excluir_consulta.resources
+K:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_consulta_agendar.resources
+K:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_pacientes.resources
+K:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_funcionarios.resources
+K:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_consulta_lista.resources
+K:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_funcionarios.resources
+K:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_pacientes.resources
+K:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_login.resources
+K:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_menu.resources
+K:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Properties.Resources.resources
+K:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Splash.resources
+K:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+O:\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe.config
+O:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.exe
+O:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.pdb
+O:\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe
+O:\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.pdb
+O:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+O:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_alterar_excluir_consulta.resources
+O:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_alterar_funcionario.resources
+O:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_consulta_agendar.resources
+O:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_pacientes.resources
+O:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_funcionarios.resources
+O:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_consulta_lista.resources
+O:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_funcionarios.resources
+O:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_pacientes.resources
+O:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_login.resources
+O:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_menu.resources
+O:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Properties.Resources.resources
+O:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Splash.resources
+O:\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Venâncio Fávero\Desktop\TCC ATUALIZADO\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe.config
+C:\Users\Venâncio Fávero\Desktop\TCC ATUALIZADO\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.exe
+C:\Users\Venâncio Fávero\Desktop\TCC ATUALIZADO\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.pdb
+C:\Users\Venâncio Fávero\Desktop\TCC ATUALIZADO\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe
+C:\Users\Venâncio Fávero\Desktop\TCC ATUALIZADO\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.pdb
+C:\Users\Venâncio Fávero\Desktop\TCC ATUALIZADO\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Venâncio Fávero\Desktop\TCC ATUALIZADO\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_consulta_agendar.resources
+C:\Users\Venâncio Fávero\Desktop\TCC ATUALIZADO\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_pacientes.resources
+C:\Users\Venâncio Fávero\Desktop\TCC ATUALIZADO\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_funcionarios.resources
+C:\Users\Venâncio Fávero\Desktop\TCC ATUALIZADO\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_consulta_lista.resources
+C:\Users\Venâncio Fávero\Desktop\TCC ATUALIZADO\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_funcionarios.resources
+C:\Users\Venâncio Fávero\Desktop\TCC ATUALIZADO\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_pacientes.resources
+C:\Users\Venâncio Fávero\Desktop\TCC ATUALIZADO\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_login.resources
+C:\Users\Venâncio Fávero\Desktop\TCC ATUALIZADO\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_menu.resources
+C:\Users\Venâncio Fávero\Desktop\TCC ATUALIZADO\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Venâncio Fávero\Desktop\TCC ATUALIZADO\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Splash.resources
+C:\Users\Venâncio Fávero\Desktop\TCC ATUALIZADO\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+L:\pendriv\TCCTP\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe.config
+L:\pendriv\TCCTP\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.exe
+L:\pendriv\TCCTP\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.pdb
+L:\pendriv\TCCTP\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe
+L:\pendriv\TCCTP\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.pdb
+L:\pendriv\TCCTP\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+L:\pendriv\TCCTP\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_consulta_agendar.resources
+L:\pendriv\TCCTP\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_pacientes.resources
+L:\pendriv\TCCTP\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_funcionarios.resources
+L:\pendriv\TCCTP\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_consulta_lista.resources
+L:\pendriv\TCCTP\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_funcionarios.resources
+L:\pendriv\TCCTP\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_pacientes.resources
+L:\pendriv\TCCTP\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_login.resources
+L:\pendriv\TCCTP\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_menu.resources
+L:\pendriv\TCCTP\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Properties.Resources.resources
+L:\pendriv\TCCTP\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Splash.resources
+L:\pendriv\TCCTP\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+L:\pendriv\TCCTP\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_psicologo.resources
+E:\pendriv\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe.config
+E:\pendriv\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.exe
+E:\pendriv\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe
+E:\pendriv\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.pdb
+E:\pendriv\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+E:\pendriv\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_consulta_agendar.resources
+E:\pendriv\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_pacientes.resources
+E:\pendriv\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_funcionarios.resources
+E:\pendriv\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_consulta_lista.resources
+E:\pendriv\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_funcionarios.resources
+E:\pendriv\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_pacientes.resources
+E:\pendriv\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_login.resources
+E:\pendriv\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_menu.resources
+E:\pendriv\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_psicologo.resources
+E:\pendriv\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Properties.Resources.resources
+E:\pendriv\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Splash.resources
+E:\pendriv\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+E:\pendriv\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.pdb
+M:\pendriv\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe.config
+M:\pendriv\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.exe
+M:\pendriv\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.pdb
+M:\pendriv\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+M:\pendriv\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_consulta_agendar.resources
+M:\pendriv\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_pacientes.resources
+M:\pendriv\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_funcionarios.resources
+M:\pendriv\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_consulta_lista.resources
+M:\pendriv\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_funcionarios.resources
+M:\pendriv\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_pacientes.resources
+M:\pendriv\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_login.resources
+M:\pendriv\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_menu.resources
+M:\pendriv\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Properties.Resources.resources
+M:\pendriv\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Splash.resources
+M:\pendriv\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+M:\pendriv\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe
+M:\pendriv\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.pdb
+G:\ORIGINAL FODÃO\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe.config
+G:\ORIGINAL FODÃO\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.exe
+G:\ORIGINAL FODÃO\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.pdb
+L:\ORIGINAL FODÃO\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe.config
+L:\ORIGINAL FODÃO\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.exe
+L:\ORIGINAL FODÃO\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.pdb
+M:\ORIGINAL FODÃO\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe.config
+M:\ORIGINAL FODÃO\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.exe
+M:\ORIGINAL FODÃO\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.pdb
+L:\ORIGINAL FODÃO\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+L:\ORIGINAL FODÃO\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_consulta_agendar.resources
+L:\ORIGINAL FODÃO\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_pacientes.resources
+L:\ORIGINAL FODÃO\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_funcionarios.resources
+L:\ORIGINAL FODÃO\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_consulta_lista.resources
+L:\ORIGINAL FODÃO\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_funcionarios.resources
+L:\ORIGINAL FODÃO\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_pacientes.resources
+L:\ORIGINAL FODÃO\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_historico_pacientes.resources
+L:\ORIGINAL FODÃO\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_login.resources
+L:\ORIGINAL FODÃO\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_menu.resources
+L:\ORIGINAL FODÃO\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Properties.Resources.resources
+L:\ORIGINAL FODÃO\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Splash.resources
+L:\ORIGINAL FODÃO\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+L:\ORIGINAL FODÃO\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe
+L:\ORIGINAL FODÃO\TCC ORIGINAL\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.pdb
+L:\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe.config
+L:\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.exe
+L:\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.pdb
+L:\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe
+L:\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.pdb
+L:\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+L:\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_consulta_agendar.resources
+L:\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_pacientes.resources
+L:\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_funcionarios.resources
+L:\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_consulta_lista.resources
+L:\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_funcionarios.resources
+L:\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_pacientes.resources
+L:\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_login.resources
+L:\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_menu.resources
+L:\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Properties.Resources.resources
+L:\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Splash.resources
+L:\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe.config
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.exe
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.pdb
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.pdb
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_consulta_agendar.resources
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_pacientes.resources
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_funcionarios.resources
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_consulta_lista.resources
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_funcionarios.resources
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_pacientes.resources
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_login.resources
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_menu.resources
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Splash.resources
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO (1)\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe.config
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO (1)\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.exe
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO (1)\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.pdb
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO (1)\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO (1)\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_consulta_agendar.resources
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO (1)\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_pacientes.resources
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO (1)\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_funcionarios.resources
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO (1)\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_consulta_lista.resources
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO (1)\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_funcionarios.resources
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO (1)\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_pacientes.resources
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO (1)\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_historico.resources
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO (1)\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_historico_apontamentos.resources
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO (1)\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_login.resources
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO (1)\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_menu.resources
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO (1)\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO (1)\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Splash.resources
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO (1)\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO (1)\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO (1)\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.pdb
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe.config
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.exe
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.pdb
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.pdb
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_consulta_agendar.resources
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_pacientes.resources
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_funcionarios.resources
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_consulta_lista.resources
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_funcionarios.resources
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_pacientes.resources
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_historico_apontamentos.resources
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_login.resources
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_menu.resources
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Splash.resources
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe.config
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.exe
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.pdb
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_consulta_agendar.resources
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_pacientes.resources
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_funcionarios.resources
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_consulta_lista.resources
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_funcionarios.resources
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_pacientes.resources
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_historico_apontamentos.resources
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_login.resources
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_menu.resources
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Splash.resources
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.pdb
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_paciente_historico.resources
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_paciente_historico.resources
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe.config
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.exe
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.pdb
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.pdb
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_consulta_agendar.resources
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_pacientes.resources
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_funcionarios.resources
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_consulta_lista.resources
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_funcionarios.resources
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_pacientes.resources
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_historico_apontamentos.resources
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_login.resources
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_menu.resources
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_paciente_historico.resources
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Splash.resources
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\frm_login.resx
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\frm_login.cs
+C:\Users\Venâncio Fávero\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\frm_login.Designer.cs
+D:\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe.config
+D:\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.exe
+D:\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.pdb
+D:\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\frm_login.resx
+D:\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\frm_login.cs
+D:\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\frm_login.Designer.cs
+D:\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe
+D:\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.pdb
+D:\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+D:\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_consulta_agendar.resources
+D:\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_pacientes.resources
+D:\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_funcionarios.resources
+D:\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_consulta_lista.resources
+D:\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_funcionarios.resources
+D:\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_pacientes.resources
+D:\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_historico_apontamentos.resources
+D:\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_login.resources
+D:\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_menu.resources
+D:\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_paciente_historico.resources
+D:\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Properties.Resources.resources
+D:\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Splash.resources
+D:\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_consulta_agendar.resources
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_pacientes.resources
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_funcionarios.resources
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_consulta_lista.resources
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_funcionarios.resources
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_pacientes.resources
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_historico_apontamentos.resources
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_login.resources
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_menu.resources
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_paciente_historico.resources
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Relatorio.resources
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Splash.resources
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\RdlCompile.cache
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\RdlCompile.compiled
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\frm_login.resx
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\frm_login.cs
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\frm_login.Designer.cs
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe.config
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.pdb
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.exe
+C:\Users\CMC\Desktop\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.pdb
+C:\Users\Info04\Desktop\ORIGINAL FODÃO C# COMPLETO\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe.config
+C:\Users\Info04\Desktop\ORIGINAL FODÃO C# COMPLETO\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.exe
+C:\Users\Info04\Desktop\ORIGINAL FODÃO C# COMPLETO\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.pdb
+C:\Users\Info04\Desktop\ORIGINAL FODÃO C# COMPLETO\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csprojResolveAssemblyReference.cache
+C:\Users\Info04\Desktop\ORIGINAL FODÃO C# COMPLETO\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_consulta_agendar.resources
+C:\Users\Info04\Desktop\ORIGINAL FODÃO C# COMPLETO\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_pacientes.resources
+C:\Users\Info04\Desktop\ORIGINAL FODÃO C# COMPLETO\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cad_funcionarios.resources
+C:\Users\Info04\Desktop\ORIGINAL FODÃO C# COMPLETO\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_consulta_lista.resources
+C:\Users\Info04\Desktop\ORIGINAL FODÃO C# COMPLETO\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_funcionarios.resources
+C:\Users\Info04\Desktop\ORIGINAL FODÃO C# COMPLETO\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_cons_pacientes.resources
+C:\Users\Info04\Desktop\ORIGINAL FODÃO C# COMPLETO\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_historico_apontamentos.resources
+C:\Users\Info04\Desktop\ORIGINAL FODÃO C# COMPLETO\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_login.resources
+C:\Users\Info04\Desktop\ORIGINAL FODÃO C# COMPLETO\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_menu.resources
+C:\Users\Info04\Desktop\ORIGINAL FODÃO C# COMPLETO\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.frm_paciente_historico.resources
+C:\Users\Info04\Desktop\ORIGINAL FODÃO C# COMPLETO\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Properties.Resources.resources
+C:\Users\Info04\Desktop\ORIGINAL FODÃO C# COMPLETO\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Relatorio.resources
+C:\Users\Info04\Desktop\ORIGINAL FODÃO C# COMPLETO\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.Splash.resources
+C:\Users\Info04\Desktop\ORIGINAL FODÃO C# COMPLETO\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\TCC.csproj.GenerateResource.Cache
+C:\Users\Info04\Desktop\ORIGINAL FODÃO C# COMPLETO\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\RdlCompile.cache
+C:\Users\Info04\Desktop\ORIGINAL FODÃO C# COMPLETO\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\obj\Debug\RdlCompile.compiled
+C:\Users\Info04\Desktop\ORIGINAL FODÃO C# COMPLETO\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\frm_login.resx
+C:\Users\Info04\Desktop\ORIGINAL FODÃO C# COMPLETO\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\frm_login.cs
+C:\Users\Info04\Desktop\ORIGINAL FODÃO C# COMPLETO\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\frm_login.Designer.cs
+C:\Users\Info04\Desktop\ORIGINAL FODÃO C# COMPLETO\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.exe
+C:\Users\Info04\Desktop\ORIGINAL FODÃO C# COMPLETO\ORIGINAL FODÃO\ORIGINAL FODÃO\ORIGINAL FODÃO\TCC ORIGINAL venancio\TCC fodão meu e do yudji\TCC\bin\Debug\TCC.pdb

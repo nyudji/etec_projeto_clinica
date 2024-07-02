@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{286081F1-512B-48FA-8F1E-85BC1FF15C22}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TCC</RootNamespace>
+    <AssemblyName>TCC</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DAO\AnotacaoDAO.cs" />
+    <Compile Include="DAO\ConsultaDAO.cs" />
+    <Compile Include="DAO\FuncionarioDAO.cs" />
+    <Compile Include="DAO\PacienteDAO.cs" />
+    <Compile Include="frm_consulta_agendar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_consulta_agendar.Designer.cs">
+      <DependentUpon>frm_consulta_agendar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_cad_pacientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_cad_pacientes.Designer.cs">
+      <DependentUpon>frm_cad_pacientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_cad_funcionarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_cad_funcionarios.Designer.cs">
+      <DependentUpon>frm_cad_funcionarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_consulta_lista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_consulta_lista.Designer.cs">
+      <DependentUpon>frm_consulta_lista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_cons_funcionarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_cons_funcionarios.Designer.cs">
+      <DependentUpon>frm_cons_funcionarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_cons_pacientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_cons_pacientes.Designer.cs">
+      <DependentUpon>frm_cons_pacientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_historico_apontamentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_historico_apontamentos.Designer.cs">
+      <DependentUpon>frm_historico_apontamentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_login.cs">
+      <SubType>Form</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="frm_login.Designer.cs">
+      <DependentUpon>frm_login.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="frm_menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_menu.Designer.cs">
+      <DependentUpon>frm_menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_paciente_historico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_paciente_historico.Designer.cs">
+      <DependentUpon>frm_paciente_historico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="model\Anotacao.cs" />
+    <Compile Include="model\ConnectionFactory.cs" />
+    <Compile Include="model\Consulta.cs" />
+    <Compile Include="model\Funcionario.cs" />
+    <Compile Include="model\Informacoes.cs" />
+    <Compile Include="model\Paciente.cs" />
+    <Compile Include="model\Validacao.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorio.Designer.cs">
+      <DependentUpon>Relatorio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash.Designer.cs">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frm_consulta_agendar.resx">
+      <DependentUpon>frm_consulta_agendar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_cad_pacientes.resx">
+      <DependentUpon>frm_cad_pacientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_cad_funcionarios.resx">
+      <DependentUpon>frm_cad_funcionarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_consulta_lista.resx">
+      <DependentUpon>frm_consulta_lista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_cons_funcionarios.resx">
+      <DependentUpon>frm_cons_funcionarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_cons_pacientes.resx">
+      <DependentUpon>frm_cons_pacientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_historico_apontamentos.resx">
+      <DependentUpon>frm_historico_apontamentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_login.resx">
+      <DependentUpon>frm_login.cs</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_menu.resx">
+      <DependentUpon>frm_menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_paciente_historico.resx">
+      <DependentUpon>frm_paciente_historico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorio.resx">
+      <DependentUpon>Relatorio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report.rdlc" />
+    <EmbeddedResource Include="Splash.resx">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\DataSources\TCC.model.Informacoes.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_pesquisar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Medicina_e_Saude_5557_symbol_icon - Copia %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8274_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2323.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Question.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico_alterar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo %281%29.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo %287%29.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\808_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\808_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Especialização-Desenvolvimento-Humano-Psicologia.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CARTÃO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7670_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\START.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nuvens.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Psicologia simbol 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Psicologia simbol 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Question %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\XXXXXX.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
