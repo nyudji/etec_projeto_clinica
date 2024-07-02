@@ -1,0 +1,283 @@
+﻿body 
+{
+     background-image:url("../image/branco.jpg");
+}
+
+#master
+{
+    width:1200px;
+    height:1320px;
+    /*border:1px solid #000;*/
+    margin:auto;
+    margin-top:1px;
+    margin-bottom:40px;
+    /*background-color:white;*/
+}
+
+/****************************TOPO************************************/
+#Topo 
+{   
+    width:1340px;
+    height:250px;
+	margin:-40px 0px 0px -70px;
+	border-radius:10px;
+	background-color:#F8F8F8;
+	margin-top:1px;
+	margin-bottom:2px;
+	
+}
+
+#Logo
+{
+    width:150px;
+    height:180px;
+    float:left;
+    margin-top:25px;
+    margin-left:20px;
+
+}
+
+#Name 
+{   margin-top:20px;
+    width:600px;
+    height:240px;
+    float:left;
+    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-style:oblique;
+	text-decoration:blink;	
+	text-align:justify;
+	font-size:29px;
+    margin-left:170px;
+}
+
+#Login 
+{
+    width:330px;
+    height:210px;
+    border-top:10px solid #0099CC;
+    border-bottom:10px solid #0099CC;
+    float:left;
+    margin-left:50px;
+	margin-top:10px;
+    border-radius:30px;
+	background-color:#D8D8D8;
+
+}
+
+#Login ul 
+{
+    list-style-type:none;
+}
+
+.senha 
+{
+    margin-left:10px;
+
+    
+}
+.email
+{
+    margin-left:8px;
+
+    
+}
+.titulo
+{
+    margin-left:10px;
+font-family: arial, verdana, sans-serif;
+    
+}
+.botao{
+font:normal 9px Verdana, Geneva, sans-serif;
+color:#a5a5a5;
+background:#dedede;
+border:1px solid #bbb;
+text-shadow:0px 1px 0px #fff;
+box-shadow:0px 1px 10px #d1cfd1;
+-moz-box-shadow:0px 1px 10px #d1cfd1;
+-webkit-box-shadow:0px 1px 10px #d1cfd1;
+border-radius:10px 10px 10px 10px;
+-moz-border-radius:10px 10px 10px 10px;
+-webkit-border-radius:10px 10px 10px 10px;
+width:50px;
+text-align:left;
+padding:8px 50px;
+cursor:pointer;
+margin:0 auto;
+margin-right:10px;
+}
+.botao:active{
+cursor:pointer;
+position:relative;
+top:2px;
+}
+
+
+
+
+.esp
+{
+
+	margin-left:80px;
+}
+
+/****************************IMAGEM-TOP************************************/
+#Imagem-top 
+{
+    width:1000px;
+    height:300px;
+    margin:auto;
+    margin-top:30px;
+}
+
+
+
+/****************************MENU************************************/
+#Menu-top 
+{   
+margin-top:50px
+}
+
+#Menu-top ul 
+{
+    list-style-type:none;
+    text-align:center;
+}
+
+#Menu-top ul li
+{
+    font-family:'Palatino Linotype';
+    font-size:26px;
+    color:black;    
+
+}
+
+#Menu-top ul li a
+{
+    color: #000;
+    text-decoration:none;
+}
+
+#Menu-top ul li a:hover
+{
+    color:#3399CC;
+}
+
+
+/****************************CONTEUDO************************************/
+#Conteudo 
+{
+    width:1000px;
+    height:750px;
+    border-top:20px solid #0099CC;
+    border-bottom:20px solid #0099CC;
+    margin:auto;
+    margin-top:35px;
+    border-radius:40px; /*-->Arrendodar a borda*/
+}
+
+#Especialidades 
+{
+    width:250px;
+    height:700px;
+    border:1px solid #000;
+    float:left;
+    margin:25px 0px 0px 30px;
+}
+
+#Clinica
+{
+    width:680px;
+    height:700px;
+    border:1px solid #000;
+    float:left;
+    margin:25px 0px 0px 10px;
+}
+
+
+/*****************************SLIDE*********************************/
+
+/*Codigos do Slideshow*/
+.rs-slideshow {
+  
+    height: 280px;
+    overflow: hidden;
+    position: relative;
+    width: 240px;
+}
+
+/*.rs-slideshow .slide-container {
+    background-color: #000;
+    height: 200px;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 150px;
+}*/
+ 
+/*    Hide the slide data container    */
+/*.rs-slideshow .slides {
+    display: none;
+}*/
+/*.slide-container .slide-caption {
+    height: 10px;
+	background-color: #000;
+    bottom: 0;
+    color: #fff;
+    display: block;
+    left: 0;
+    padding: 30px 10px;
+    position: relative;
+    text-align: center;
+    right: 0;
+    filter: alpha(opacity=70);
+    -khtml-opacity: 0.7;
+    -moz-opacity: 0.7;
+    opacity: 0.7; 
+}*/
+
+   
+   
+   /**
+ * jQuery lightBox plugin
+ * This jQuery plugin was inspired and based on Lightbox 2 by Lokesh Dhakar (http://www.huddletogether.com/projects/lightbox2/)
+ * and adapted to me for use like a plugin from jQuery.
+ * @name jquery-lightbox-0.5.css
+ * @author Leandro Vieira Pinho - http://leandrovieira.com
+ * @version 0.5
+ * @date April 11, 2008
+ * @category jQuery plugin
+ * @copyright (c) 2008 Leandro Vieira Pinho (leandrovieira.com)
+ * @license CCAttribution-ShareAlike 2.5 Brazil - http://creativecommons.org/licenses/by-sa/2.5/br/deed.en_US
+ * @example Visit http://leandrovieira.com/projects/jquery/lightbox/ for more informations about this jQuery plugin
+ */
+
+
+
+/* jQuery lightBox plugin - Gallery style */
+
+
+#slideshow 
+{		 
+    position:absolute;
+}
+#slideshow a 
+{
+    float:left;
+    position:absolute;
+}
+#slideshow a img
+{
+	float: auto;
+    border:none;
+	width:600px;
+    height:200px;
+	box-shadow:3px 3px 5px 6px #787878;
+}
+#slideshow a.show
+{
+    z-index:2
+}
+
+/*Fim do Slide Show */
